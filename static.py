@@ -65,7 +65,7 @@ p.vbar(x='periods', width=0.5, top='gmv', color='colors', source=source)
 #     y_axis_location=,
 
 # output_file("myBokeh.html") with this we can output to a new html file
-output_file('static.html', title='Bokeh Plot')
+# output_file('static.html', title='Bokeh Plot')
 # export_png(p)
 # export_png(p, 'gmv.png', height=600, width=900)
 
